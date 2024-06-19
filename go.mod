@@ -1,4 +1,4 @@
-module yumyumreader
+module github.com/Karidus-423/YumYumReader
 
 go 1.22.3
 
